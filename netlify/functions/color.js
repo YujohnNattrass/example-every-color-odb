@@ -59,7 +59,7 @@ async function handler(event) {
 <body>
   <main> 
     <div class="content">
-      <h1>Color: ${cssVal}</h1>
+      <h1>This color is ${cssVal}</h1>
       <p><a href="/">&larr; back to home</a></p>
       <p class="timestamp">Generated at:<br />${time}</p>
     </div>
